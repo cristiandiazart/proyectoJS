@@ -10,3 +10,10 @@ border-radius: 1px;
 justify-content: space-around;
 }
 
+
+#footer{
+height: 100px;
+text-align: center;
+padding: 2rem;
+
+}

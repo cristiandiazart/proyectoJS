@@ -88,6 +88,7 @@ function guardarDatos(usuarioDB,storage) {
             <button type="button" class="btn btn-primary">agregar al carrito</button>
 
 
+
         </div>
 
             
