@@ -1,0 +1,12 @@
+.fakeAncla{
+    text-decoration: underline;
+
+}
+
+#tarjetas{
+flex-wrap: nowrap;
+flex-direction: row;
+border-radius: 1px;
+justify-content: space-around;
+}
+
